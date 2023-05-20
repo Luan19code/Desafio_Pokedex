@@ -2,20 +2,6 @@
 	🚧  Desafio Técnico Snapfi - Completo 🚀 🚧
 </h2>
 
-<p align="center">
- <a href="#-Visão Geral">Visão Geral</a> •
- <a href="#-Layout Mobile">Layout Mobile</a> •
- <a href="#-Requisitos">Requisitos</a> •
- <a href="#-Configuração do Ambiente de Desenvolvimento">Configuração do Ambiente de Desenvolvimento</a> • 
- <a href="#-Estrutura do Projeto (Clean Architecture)">Estrutura do Projeto (Clean Architecture)</a> • 
- <a href="#-Como Usar">Como Usar</a> • 
- <a href="#-Futuras Melhorias">Futuras Melhorias</a> • 
- <a href="#-Conclusão">Conclusão</a> • 
- <a href="#-Referências">Referências</a> • 
- <a href="#-Contato">Contato</a> •
-</p>
-
-
 ## Visão Geral
 
 O Projeto Pokedex é uma aplicação móvel que permite aos usuários pesquisar e visualizar informações detalhadas sobre os diferentes tipos de Pokemon. A aplicação é desenvolvida usando o Flutter e Dart, e segue a Arquitetura Limpa (Clean Architecture) para organização de código e estrutura do projeto.
